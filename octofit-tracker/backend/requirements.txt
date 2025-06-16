@@ -1,0 +1,4 @@
+# Anforderungen für das Backend (basierend auf monafit Tracker)
+Django==4.1
+djangorestframework
+pymongo
